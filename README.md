@@ -44,6 +44,7 @@ Forward Resistance:
 RF = [(0.74 − 0.73) / (3.30 − 2.53)] × 10³ ≈ 12 Ω
 Reverse Resistance:
 RR = [(5.12 − 5.11) / (1.87 − 1.37)] × 10³ = 20 Ω
+
 OUTPUT WAVEFORM:
 <img width="1108" height="321" alt="Screenshot 2026-11-19 110244" src="https://github.com/user-attachments/assets/aa6a6f20-838e-42ab-8f2d-18d1aabcf6f1" />
 
